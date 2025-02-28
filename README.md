@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="left">🛠 My technology stack:</h3>
+<h3 align="left"> My technology stack:</h3>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">🔥   My statistics :</h3>
+<h3 align="left">   My statistics :</h3>
 
 ###
 
