@@ -13,6 +13,8 @@
   <img width="10" />
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="10" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="python logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="10" />
 </div>
